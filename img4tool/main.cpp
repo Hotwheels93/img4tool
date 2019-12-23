@@ -12,7 +12,6 @@
 #include <getopt.h>
 #include <string.h>
 #include <stdlib.h>
-#include <algorithm>
 
 #include <libgeneral/macros.h>
 #include "img4tool.hpp"
